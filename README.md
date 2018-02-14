@@ -1,2 +1,2 @@
-# estructuras_python
+# Estructuras python
 Estructuras de datos en python
