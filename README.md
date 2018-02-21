@@ -7,9 +7,9 @@ Ejercicios implementados:
 3. Notación posfija. (Usando pilas)
 
 Desarrolladores:
-*Norbey Danilo Muñoz Cañón
-*Camilo Enrique Rocha Calderón
-*Brayan Leonardo Sierra Forero
+1. Norbey Danilo Muñoz Cañón
+2. Camilo Enrique Rocha Calderón
+3. Brayan Leonardo Sierra Forero
 
 Ciencias de la Computación III
 
